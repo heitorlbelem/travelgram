@@ -24,6 +24,13 @@ header .container {
   margin-bottom: 0.8rem;
 }
 
+#profile img {
+  width: 17.6rem;
+  height: 17.6rem;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
 #info {
   list-style: none;
   display: flex;
